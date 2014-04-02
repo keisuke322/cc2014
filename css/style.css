@@ -32,6 +32,7 @@ aside {
 img {
 	margin: 30px 0px;
 }
+<<<<<<< HEAD
 footer {
 	height: 100px;
 	padding: 30px;
@@ -39,4 +40,8 @@ footer {
 	color: #E0E0E0;
 	background-color: #474747;
 	text-align: center;
+=======
+body p.description {
+	background-color: #EFEFEF;
+>>>>>>> colored
 }
