@@ -32,3 +32,6 @@ aside {
 img {
 	margin: 30px 0px;
 }
+body p.description {
+	background-color: #EFEFEF;
+}
